@@ -1,1 +1,5 @@
-# MISW4104Parcialdfrcuza
+# MISW4104Parcialdfrcuz
+
+Evaluación práctica Angular
+
+df.cruza
