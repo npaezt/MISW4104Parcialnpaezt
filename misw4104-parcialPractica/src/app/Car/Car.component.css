@@ -1,0 +1,27 @@
+.car-image{
+    width: 80vw;
+    height: auto;
+    margin: 0 auto;
+}
+
+.container-md div {
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 8px;
+  }
+
+.margen{
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.tabla{
+    width: 60vw;
+    padding-top: 4vh;
+    padding-bottom: 2vh;
+    
+}
+
+.logo{
+    padding-top: 3vh;
+}
+  

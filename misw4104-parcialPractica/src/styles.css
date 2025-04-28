@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+.mi-tabla-alterna .fila-par {
+    background-color: #f2f2f2;
+  }
+  
+  .mi-tabla-alterna .fila-impar {
+    background-color: #ffffff;
+  }
